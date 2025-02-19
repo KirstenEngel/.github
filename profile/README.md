@@ -1,6 +1,6 @@
 # SecureDNA
 
-SecureDNA is a free, non-profit screening platform designed to safeguard DNA synthesis everywhere.
+SecureDNA is a free, non-profit screening platform designed to safeguard DNA synthesis everywhere. 
 
 ## Availability
 
